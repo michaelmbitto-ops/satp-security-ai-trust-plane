@@ -62,13 +62,13 @@ SATP provides a unified model that treats **entities**, **flows**, **policies**,
 This work is licensed under:
 
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY‑NC‑SA 4.0)**  
-© 2026 Michael
+© 2026 Michael Bitto
 
 ---
 
 ## 🧑‍💻 Author
 
-**Michael**  
+**Michael Bitto**  
 Las Vegas, NV  
 2026
 
