@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Security–AI Trust Plane (SATP)"
+version: "1.0"
+authors:
+  - family-names: "Bitto"
+    given-names: "Michael"
+date-released: "2026-10-26"
+url: "https://github.com/michaelmbitto-ops/satp-security-ai-trust-plane"
+abstract: "A unified, flow-centric security model for governing human, machine, and AI interactions across modern distributed systems."
+license: "CC-BY-NC-SA-4.0"
