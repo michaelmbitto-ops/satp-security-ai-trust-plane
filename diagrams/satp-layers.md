@@ -1,4 +1,3 @@
-```markdown
 # SATP Layer Model
 
 ```mermaid
