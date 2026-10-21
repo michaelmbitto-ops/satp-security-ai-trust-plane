@@ -1,10 +1,10 @@
 
 ---
 
-# 📁 **diagrams/satp-layers.md**
+## 📁 diagrams/satp-layers.md
 
 ```markdown
-# SATP Layer Model (Mermaid)
+# SATP Layer Model
 
 ```mermaid
 graph TD
@@ -15,4 +15,3 @@ graph TD
     RAL[Reasoning & Autonomy Layer]
 
     IEL --> FCL --> PGL --> TEL --> RAL
-
