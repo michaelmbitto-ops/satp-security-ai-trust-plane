@@ -76,3 +76,24 @@ Las Vegas, NV
 
 ## ⭐ How to Cite SATP
 
+If you reference the Security–AI Trust Plane (SATP) model in academic, professional, or technical work, please use the following citation format:
+
+**APA Style**
+Bitto, M. (2026). *The Security–AI Trust Plane (SATP): A Unified Model for Modern Network, Application, and AI Security*. Version 1.0. https://github.com/<your-repo>/satp-security-ai-trust-plane
+
+**BibTeX**
+@misc{satp2026,
+  author       = {Michael Bitto},
+  title        = {The Security–AI Trust Plane (SATP): A Unified Model for Modern Network, Application, and AI Security},
+  year         = {2026},
+  version      = {1.0},
+  url          = {https://github.com/<your-repo>/satp-security-ai-trust-plane}
+}
+
+**Chicago Style**
+Bitto, Michael. *The Security–AI Trust Plane (SATP): A Unified Model for Modern Network, Application, and AI Security*. Version 1.0. 2026.
+
+**MLA Style**
+Bitto, Michael. *The Security–AI Trust Plane (SATP): A Unified Model for Modern Network, Application, and AI Security*. Version 1.0, 2026.
+
+
