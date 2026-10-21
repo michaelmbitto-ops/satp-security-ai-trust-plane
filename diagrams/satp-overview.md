@@ -1,10 +1,11 @@
-# SATP Overview Diagram (Mermaid)
+# SATP Layer Model
 
 ```mermaid
-flowchart TD
-    A[Entities] --> B[Flows]
-    B --> C[Policy & Guardrails]
-    C --> D[Telemetry & Evidence]
-    D --> E[AI Reasoning]
-    E --> C
-    E --> B
+graph TD
+    IEL["Identity & Entity Layer"]
+    FCL["Flow & Context Layer"]
+    PGL["Policy & Guardrail Layer"]
+    TEL["Telemetry & Evidence Layer"]
+    RAL["Reasoning & Autonomy Layer"]
+
+    IEL --> FCL --> PGL --> TEL --> RAL
