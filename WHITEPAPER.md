@@ -298,4 +298,4 @@ SATP is designed to be implemented today using existing technologies and serves 
 This work is licensed under:
 
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY‑NC‑SA 4.0)**  
-© 2026 Michael
+© 2026 Michael Bitto

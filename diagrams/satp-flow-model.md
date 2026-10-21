@@ -1,10 +1,6 @@
+# 📁 diagrams/satp-flow-model.md
 
----
-
-# 📁 **diagrams/satp-flow-model.md**
-
-```markdown
-# SATP Flow Governance Model (Mermaid)
+## SATP Flow Governance
 
 ```mermaid
 sequenceDiagram
