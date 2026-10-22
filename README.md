@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/satp-logo.png" alt="SATP Logo" width="320">
+  <img src="docs/assets/satp-logo.png" alt="SATP Logo" width="320">
 </p>
 
 # Security–AI Trust Plane (SATP)
