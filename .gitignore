@@ -1,0 +1,26 @@
+# VS Code
+.vscode/
+
+# Go build artifacts
+bin/
+build/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go cache
+*.log
+*.out
+
+# Go modules
+vendor/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
