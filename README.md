@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="satp-logo.png" alt="SATP Logo" width="320">
+</p>
+
 # Security–AI Trust Plane (SATP)
 ### A Unified Model for Modern Network, Application, and AI Security
 
