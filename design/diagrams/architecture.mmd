@@ -1,0 +1,28 @@
+```mermaid
+flowchart TD
+    A[Identity & Entity Layer (IEL)]
+    B[Flow Classification Layer (FCL)]
+    C[Policy & Guardrail Layer (PGL)]
+    D[Telemetry & Evidence Layer (TEL)]
+    E[Reasoning & Action Layer (RAL)]
+
+    A --> B --> C --> D --> E
+
+---
+
+# 📁 **docs/**  
+### `docs/architecture.md`
+```markdown
+# SATP Architecture (v1.1)
+
+SATP defines a unified trust plane composed of five continuous layers:
+
+1. **Identity & Entity Layer (IEL)**  
+2. **Flow Classification Layer (FCL)**  
+3. **Policy & Guardrail Layer (PGL)**  
+4. **Telemetry & Evidence Layer (TEL)**  
+5. **Reasoning & Action Layer (RAL)**  
+
+These layers operate together to classify flows, enforce guardrails, correlate telemetry, and govern AI reasoning.
+
+See the Wiki for detailed documentation.
