@@ -10,7 +10,7 @@ This document outlines how to report vulnerabilities, how disclosures are handle
 
 If you discover a security vulnerability in SATP, please report it privately via email:
 
-📧 **michaelbitto.ops@gmail.com**
+📧 **michael.m.bitto@gmail.com**
 
 Do **not** open public GitHub issues for security concerns.
 
